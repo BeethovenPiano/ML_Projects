@@ -10,4 +10,6 @@ CALORIE BURNT PREDICTION
     Then split the data into training and testing data.
     Train the model(XGBRegressor) with the help of training data and Evaluate the model with the help of testing data (To get the accuarcy of the trained model).
     
+    Dataset:https://www.kaggle.com/datasets/fmendes/fmendesdat263xdemos
+    
     
